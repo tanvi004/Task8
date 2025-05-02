@@ -1,0 +1,13 @@
+Insights from Sales and Profit Over Months Analysis
+
+1.Seasonal Sales Trends:
+The Sales Over Months line chart shows that certain months—especially November and December—consistently have higher sales volumes, indicating a possible spike due to holiday season shopping.
+
+2.Profit Does Not Always Align with Sales:
+From the Profit Over Months chart, we observe that high sales don’t always mean high profit. For instance, some months with good sales show relatively lower or even negative profit, possibly due to high discounting or low-margin products.
+
+3.Slow Months Identified:
+The early months of the year (e.g., February and March) tend to have lower sales and profit, suggesting a slower business period. This could be a good time for promotional offers or product launches.
+
+4.Fluctuations and Opportunities:
+The charts highlight fluctuations across the year, revealing potential to stabilize operations by analyzing causes of low-profit months and optimizing product mix or pricing.
